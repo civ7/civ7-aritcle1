@@ -1,0 +1,38 @@
+body{
+  font-family: "Hiragino Sans"
+}
+header{
+  
+  background-color: #5584AC;
+  color: #FFF;
+  
+}
+
+.header-container{
+  margin: auto;
+  width: 1080px;
+  
+}
+
+.title{
+  font-size: 50px;
+  margin: 10px
+}
+.header-btn{
+  padding:10px;
+  color: white;
+}
+
+.contents-wrapper{
+  
+}
+
+.contents-container{
+  margin:auto;
+  width: 1080px;
+  
+}
+
+.article1-title{
+  background-color: rgb(182, 182, 182);
+}
